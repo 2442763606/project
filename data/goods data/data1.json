@@ -1,0 +1,74 @@
+[
+	{
+		        "name":"中国历史文学精华1",
+	            "price":"￥10.5",
+	            "url":"data/goods data/goods-img/1.jpg",
+				"goodsId":"0001"
+	},
+	{
+	            "name":"中国历史文学精华2",
+	            "price":"￥15.5",
+	            "url":"data/goods data/goods-img/2.jpg",
+				"goodsId":"0002"
+	},
+	{
+	            "name":"中国历史文学精华3",
+	            "price":"￥20.2",
+	            "url":"data/goods data/goods-img/3.jpg",
+				"goodsId":"0003"
+	},
+	{
+	            "name":"中国历史文学精华4",
+	            "price":"￥26",
+	            "url":"data/goods data/goods-img/4.jpg",
+				"goodsId":"0004"
+	},
+	{       
+	            "name":"中国历史文学精华5",
+	            "price":"￥23.9",
+	            "url":"data/goods data/goods-img/5.jpg",
+				"goodsId":"0005"
+	},
+	{
+	            "name":"中国历史文学精华6",
+	            "price":"￥30.3",
+	            "url":"data/goods data/goods-img/6.jpg",
+				"goodsId":"0006"
+	},
+	{
+		        "name":"中国历史文学精华1",
+	            "price":"￥10.5",
+	            "url":"data/goods data/goods-img/1.jpg",
+				"goodsId":"0007"
+	},
+	{
+	            "name":"中国历史文学精华2",
+	            "price":"￥15.5",
+	            "url":"data/goods data/goods-img/2.jpg",
+				"goodsId":"0008"
+	},
+	{
+	            "name":"中国历史文学精华3",
+	            "price":"￥20.2",
+	            "url":"data/goods data/goods-img/3.jpg",
+				"goodsId":"0009"
+	},
+	{
+	            "name":"中国历史文学精华4",
+	            "price":"￥26",
+	            "url":"data/goods data/goods-img/4.jpg",
+				"goodsId":"0010"
+	},
+	{       
+	            "name":"中国历史文学精华5",
+	            "price":"￥23.9",
+	            "url":"data/goods data/goods-img/5.jpg",
+				"goodsId":"0011"
+	},
+	{
+	            "name":"中国历史文学精华6",
+	            "price":"￥30.3",
+	            "url":"data/goods data/goods-img/6.jpg",
+				"goodsId":"0012"
+	}	
+]

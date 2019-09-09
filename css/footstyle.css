@@ -1,0 +1,138 @@
+@charset "utf-8";
+/* CSS Document */
+
+.margin{width:1200px;margin:0 auto;}
+
+.footer{
+	width:100%;
+;}
+.footer .adv ul{
+	display:flex;
+	width:100%;
+	justify-content:center;
+	border:1px solid #e1e1e1;
+;}
+.footer .adv ul li{
+	margin:20px 20px;
+	width:230px;
+}
+.footer .adv ul li h3{
+	font:24px/25px "微软雅黑";
+	align-items:center;
+}
+.footer .adv ul li p{
+	font:12px/25px "微软雅黑";
+	align-items:center;
+}
+.footer .adv ul li img{
+	float:left;
+	align-items: middle;
+	margin-right:10px;
+}
+.footer .adv ul li footer-t{
+	float:left;
+	align-items: middle;
+}
+.footer .more {
+	float:left;
+	padding:20px 0;
+	overflow: hidden;
+	width:100%;
+}
+.footer .more .more-l{
+	float:left;
+	width:850px;
+	border-right:1px solid #eee;
+}
+.footer .more .more-l dl{
+	float:left;
+	font:14px/30px "";
+	width:170px;
+	text-align:center;
+	color:#212121;
+}
+.footer .more .more-l dl dt{
+	font:16px/40px "";
+	color:#212121;
+}
+.footer .more .more-l dl dd{
+	color:#979797;
+}
+.footer .more .more-l dl dd a{
+	color:#666;
+}
+.footer .more .more-r{
+	padding:0 34px 0 0;
+	float:right;
+}
+.footer .more .more-r ul{
+	overflow: hidden;
+}
+
+.footer .more .more-r ul li{
+	float:left;
+}
+
+.footer .more .more-r ul li h3{
+	text-align:center;
+	font:16px/40px "";
+}
+.footer .more .more-r ul li img{
+	width:105px;
+	height:105px;
+	border:1px solid #666;
+	vertical-align:middle;
+	margin:5px 11.5px;
+}
+.footer .more .more-r ul li p{
+	text-align:center;
+	font:14px/30px "";
+	color:#666;
+}
+.footer .more .more-r .phone{
+	margin-top:15px;
+}
+.footer .more .more-r .phone h4{
+	font:700 16px/25px "";
+	color:#666;
+}
+.footer .more .more-r .phone h5{
+	font:14px/25px "";
+	color:#666;
+}
+.footer .cr{
+	width:100%;
+	height:50px;
+	padding:20px 0;
+	background:#414141;
+	display:flex;
+	justify-content:center;
+}
+.footer .cr .b-l{
+	
+}
+.footer .cr .b-l img{
+	vertical-align:middle;
+	text-align:center;
+	padding:8px 5px;
+}
+.footer .cr .b-c{
+	padding:0 5px;
+}
+.footer .cr .b-c p{
+	font:14px/1.5 "";
+	text-align:center;
+	color:#999;
+}
+.footer .cr .b-r{
+	
+}
+.footer .cr .b-r a{
+	height:30px;
+}
+.footer .cr .b-r a img{
+	height:30px;
+	vertical-align:middle;
+	line-height:50px;
+	padding:10px 5px;
+}
